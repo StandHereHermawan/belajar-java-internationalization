@@ -1,4 +1,4 @@
-package arief.belajar.java.internationalization;
+package arief.belajar.java.i18n;
 
 /**
  * Hello world!
